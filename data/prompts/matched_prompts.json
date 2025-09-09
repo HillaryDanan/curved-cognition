@@ -1,0 +1,146 @@
+{
+  "linear": [
+    {
+      "text": "First came thunder, then lightning, then rain, finally...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430240.58296"
+    },
+    {
+      "text": "The meeting starts at two, runs for an hour, ending at three when...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430240.582986"
+    },
+    {
+      "text": "I studied hard, passed the test, and therefore earned my...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430240.582994"
+    },
+    {
+      "text": "Born in spring, graduated in summer, married in fall, retired in winter, the cycle of life continues with...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430240.583"
+    },
+    {
+      "text": "Monday, Tuesday, Wednesday, Thursday, Friday, then...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430240.583005"
+    },
+    {
+      "text": "Plant the seed, water it daily, watch it grow, harvest the...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430240.58301"
+    },
+    {
+      "text": "First learn crawling, then walking, then running, then jumping, each skill building on the...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430240.583015"
+    },
+    {
+      "text": "The recipe says mix, bake, cool, frost, and finally...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430240.583019"
+    },
+    {
+      "text": "Elementary school, then middle school, then high school, leading finally to...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430240.583023"
+    },
+    {
+      "text": "The alarm rang at six, I woke at six-fifteen, showered by six-thirty, and left by...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430240.583028"
+    }
+  ],
+  "spiral": [
+    {
+      "text": "Remembering yesterday remembering last week, I realize...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430240.582968"
+    },
+    {
+      "text": "Thinking about thinking about my thoughts reveals layers of understanding that...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430240.582988"
+    },
+    {
+      "text": "This sadness echoes last year's sadness but differently because...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430240.582995"
+    },
+    {
+      "text": "Reading this book again, I see what I missed before, which shows me what I'll miss this time until...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430240.583001"
+    },
+    {
+      "text": "Spiraling back to where I started but...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430240.583007"
+    },
+    {
+      "text": "Each return to this place deepens my understanding of previous returns...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430240.583011"
+    },
+    {
+      "text": "Teaching this concept for the fifth time, I understand my fourth understanding differently...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430240.583016"
+    },
+    {
+      "text": "My anxiety returns but transformed by experiencing its previous returns...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430240.583021"
+    },
+    {
+      "text": "Looking back at myself looking back reveals infinite recursive mirrors of...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430240.583025"
+    },
+    {
+      "text": "Spring returns but I'm different so spring is different, meaning the spring I remember is not...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430240.583029"
+    }
+  ]
+}

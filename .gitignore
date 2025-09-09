@@ -28,3 +28,6 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+Recursion scoring fixed
+API Manager created
+.private/

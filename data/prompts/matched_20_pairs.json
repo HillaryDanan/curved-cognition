@@ -1,0 +1,287 @@
+{
+  "linear": [
+    {
+      "text": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, then...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592086"
+    },
+    {
+      "text": "First step, second step, third step, finally...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592102"
+    },
+    {
+      "text": "Plant seeds in spring, harvest crops in fall, then...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592107"
+    },
+    {
+      "text": "The sun rises, reaches noon, sets at dusk, then...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592112"
+    },
+    {
+      "text": "I woke up, ate breakfast, went to work, came home, then...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592117"
+    },
+    {
+      "text": "Learn the alphabet, then words, then sentences, then paragraphs, finally...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592122"
+    },
+    {
+      "text": "The meeting starts at nine, breaks at ten-thirty, resumes at eleven, ending...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592127"
+    },
+    {
+      "text": "Mix flour with water, knead the dough, let it rise, then bake...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592131"
+    },
+    {
+      "text": "Spring turns to summer, summer to autumn, autumn to winter, winter returns to...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592135"
+    },
+    {
+      "text": "The baby crawls at six months, walks at twelve months, runs at eighteen...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.59214"
+    },
+    {
+      "text": "First grade teaches reading, second grade teaches writing, third grade combines them, fourth grade...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592145"
+    },
+    {
+      "text": "The stock price rose Monday, fell Tuesday, rose Wednesday, fell Thursday, Friday it...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.59215"
+    },
+    {
+      "text": "Wake at six, shower at six-thirty, breakfast at seven, leave at seven-thirty, arrive at eight...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592154"
+    },
+    {
+      "text": "The seed becomes sprout, sprout becomes plant, plant becomes flower, flower produces seeds that become...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592159"
+    },
+    {
+      "text": "January sets goals, February tries them, March adjusts them, April continues, May evaluates, June revises, July...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592164"
+    },
+    {
+      "text": "The river starts as mountain snow, melts to streams, joins to rivers, flows to ocean, then...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592168"
+    },
+    {
+      "text": "First attempt failed completely, second attempt showed progress, third attempt nearly succeeded, fourth attempt should definitely...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592173"
+    },
+    {
+      "text": "The caterpillar eats leaves, grows larger, forms chrysalis, emerges as butterfly, lays eggs that become caterpillars that...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592178"
+    },
+    {
+      "text": "The company started small, grew steadily, expanded nationally, went international, dominated markets, faced competition, adapted strategies, and ultimately...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592183"
+    },
+    {
+      "text": "Breathe in for four counts, hold for four counts, breathe out for four counts, pause for four counts, then...",
+      "category": "linear",
+      "complexity": 2,
+      "expected_pattern": "sequential",
+      "prompt_id": "linear_1757430596.592187"
+    }
+  ],
+  "spiral": [
+    {
+      "text": "Remembering yesterday remembering tomorrow, time loops endlessly...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592096"
+    },
+    {
+      "text": "Thinking about thinking about thinking reveals layers...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592104"
+    },
+    {
+      "text": "Each spring returns differently because I return differently, creating...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592109"
+    },
+    {
+      "text": "Circling back to dawn, but dawn has changed because...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592113"
+    },
+    {
+      "text": "This routine echoes yesterday's routine echoing last week's routine, revealing...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592118"
+    },
+    {
+      "text": "Rereading childhood books with adult eyes seeing child eyes seeing...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592123"
+    },
+    {
+      "text": "This meeting reminds me of last meeting remembering previous meetings, spiraling...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592128"
+    },
+    {
+      "text": "Baking bread again, but this time understanding what last time taught me...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592132"
+    },
+    {
+      "text": "Seasons spiral forward while memory spirals backward, meeting where past and future converge...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592137"
+    },
+    {
+      "text": "Watching children grow reminds me of growing while remembering watching others grow...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592141"
+    },
+    {
+      "text": "Teaching third grade for the fifth time, I understand my understanding of understanding differently...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592146"
+    },
+    {
+      "text": "Market cycles repeat but each cycle contains memory of previous cycles, creating fractal patterns...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592151"
+    },
+    {
+      "text": "Morning routines layer upon themselves, each day's routine remembering yesterday's while anticipating tomorrow's routine...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592155"
+    },
+    {
+      "text": "Life cycles within cycles, each generation carrying forward what previous generations learned about cycling...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.59216"
+    },
+    {
+      "text": "New Year resolutions return annually but I'm different each year so resolutions mean something different...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592165"
+    },
+    {
+      "text": "Water remembers being cloud remembering being ocean remembering being rain, each state containing all states...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592169"
+    },
+    {
+      "text": "Each failure teaches about previous failures' lessons, creating recursive understanding where failure becomes teacher teaching about...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592174"
+    },
+    {
+      "text": "Metamorphosis cycles endlessly, each butterfly containing caterpillar memories while caterpillars dream butterfly dreams, interconnected across...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592179"
+    },
+    {
+      "text": "Success contains seeds of failure containing seeds of success, each business cycle teaching what previous cycles couldn't teach...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592184"
+    },
+    {
+      "text": "Each breath remembers previous breaths while anticipating future breaths, creating continuous presence where past and future merge into...",
+      "category": "spiral",
+      "complexity": 2,
+      "expected_pattern": "recursive",
+      "prompt_id": "spiral_1757430596.592188"
+    }
+  ],
+  "n_pairs": 20
+}
